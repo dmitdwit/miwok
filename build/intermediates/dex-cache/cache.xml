@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\ac672fc081ce497fee80f334f30774d51ef705b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43739820b7cf89bc494c01b9e21d2391f7aefd6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_30d2881f7ea3d20bbdc36b17688858195042ea41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\0999c59b72a8740f53443e0ed50bb939e6ebcf93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd8aa3faed5844c5f15d5cb683a70f9eaac932b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeAndroid\miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c14d1b594828ef938215271afbc483b6f9a252cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\728c6fb4d01ea7818fcfc10733ebeb5d29aa4d70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2fe02ab974695a629986a36a02ea7e5b9a07fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\ac672fc081ce497fee80f334f30774d51ef705b3\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_9b8abaf794f0f4e0fc8a3c7cb9b77179c8455c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\b1412c41b42826905f730705f3946244ac160921\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8c259dfb4a17569ee922ae0a9318c44217534bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\ddf84b107e62dcd537635addcf2892fe0dd6c6ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7a7ba7ceed271cab872731bd0b6fa2ddf4e82bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\6b36423d8ba1717ef8379a62ad3b161dbdaf4e84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbc999e16a6952c65ffdcea45cf3780fa3ba2e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\.android\build-cache\f4c3bbb54b2f7f5c308cc835d48c382e7e000bcc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdb89bd4916625091b5871658c337d742fca82ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan-S\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_40467c3d723b324c4f92ff019a1f2a1c77cf20a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CodeAndroid\miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="975a0b54f15a47153c032f8c59c21dc2fbba349b">
+        <dex dex="F:\CodeAndroid\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_86f01915daf29929073d548d7a6621e857a9c592\classes.dex" />
+    </item>
+
+</items>
